@@ -1,0 +1,7 @@
+Weekday,Weather,Time,Actions,Temperature,Caught
+Yes,Rain,Afternoon,Stop Sign Violation,Low,No
+No,Sunny,Midnight,Speeding,High,No
+No,Rain,Afternoon,Speeding,Low,No
+Yes,Sunny,Morning,Speeding,High,No
+No,Sunny,Midnight,Stop Sign Violation,Low,Yes
+Yes,Rain,Afternoon,Stop Sign Violation,High,Yes
